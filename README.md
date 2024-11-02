@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mohammad.<br>A passionate Computer engineer student.<br>🌱 I’m currently learning software and web development, especially Django and .NET. In addition, I'd love to try Android development with Kotlin.<br>🤝I’m looking to collaborate with developers who are passionate about learning.
+Hi 👋, I'm Mohammad.<br>A passionate Computer engineer student.<br>🌱 I’m currently learning python and web development, especially Django and .NET. In addition, I'd love to try new ways.<br>🤝I’m looking to collaborate with developers who are passionate about learning.
 
 
 ## 🌐 Socials:
